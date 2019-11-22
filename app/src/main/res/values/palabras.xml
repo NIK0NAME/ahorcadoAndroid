@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="palabras">
+        <item>assert</item>
+        <item>boolean</item>
+        <item>break</item>
+        <item>extends</item>
+        <item>finally</item>
+        <item>implements</item>
+        <item>instanceof</item>
+        <item>package</item>
+        <item>strictfp</item>
+        <item>synchronized</item>
+        <item>transient</item>
+    </string-array>
+</resources>
